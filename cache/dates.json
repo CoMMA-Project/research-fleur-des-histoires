@@ -1,0 +1,2507 @@
+{
+ "Q106283": {
+  "portal_id": "mdata2be40788e39868bdcc95e726389ec4cff151d538",
+  "start_year": 1301,
+  "stop_year": 1400
+ },
+ "Q106355": {
+  "portal_id": "mdataa040367564f1cb66548f034a8d95e2a7881b82ae",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q106381": {
+  "portal_id": "mdata68581c6e5b36ddf5f86053ff4126a5d3efa66aad",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q106543": {
+  "portal_id": "mdata51c978b5c4f3afcddfe4ec44af1db0789730d26d",
+  "start_year": 1475,
+  "stop_year": 1500
+ },
+ "Q109268": {
+  "portal_id": "mdataf72da8bb919e26176a8cb5507d93db13f5b3238c",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q109454": {
+  "portal_id": "mdatab2672d0e8706946e2dc5b252e54f7f64674683fe",
+  "start_year": 1485,
+  "stop_year": 1485
+ },
+ "Q109622": {
+  "portal_id": "mdata8f321c1d40f028e95e7e8283d07837a79c4425ab",
+  "start_year": 1450,
+  "stop_year": 1475
+ },
+ "Q109881": {
+  "portal_id": "mdata2c03df495713683caada9c891f5fa0ab2735b918",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q109941": {
+  "portal_id": "mdataa2f709e0b39dad6e4fe50bb32732018df4fd7a09",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q113530": {
+  "portal_id": "mdata0cf2501a8340053ace416faa3bc7cf6f5c965bbe",
+  "start_year": 1480,
+  "stop_year": 1480
+ },
+ "Q113542": {
+  "portal_id": "mdataf0334af59d45f3b58d17a604a31f53ae94e83fea",
+  "start_year": 1301,
+  "stop_year": 1405
+ },
+ "Q113543": {
+  "portal_id": "mdata5cdaa0403d2b22c271b200af1e9a04b5943a7dab",
+  "start_year": 1405,
+  "stop_year": 1405
+ },
+ "Q113550": {
+  "portal_id": "mdatad9695ab1269a66bab22d641015340e60eda67a0a",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q117554": {
+  "portal_id": "mdata4370be7939d5a0bea891ca2f8b83b862a85a24c6",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q119030": {
+  "portal_id": "mdataa4f4d8c6b037ad4901d102c356e2de523c03bce9",
+  "start_year": 1301,
+  "stop_year": 1400
+ },
+ "Q121764": {
+  "portal_id": "mdata1f200f99f71a31b6a15f838c2a33883a063ff192",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q121936": {
+  "portal_id": "mdatafb70f9b78c4667c3086d96e2305fe06ad43391e7",
+  "start_year": 1301,
+  "stop_year": 1400
+ },
+ "Q131687": {
+  "portal_id": "mdata09ee8a122671f8381887994875fe22c39427e39d",
+  "start_year": 1450,
+  "stop_year": 1500
+ },
+ "Q135394": {
+  "portal_id": "mdatabc0a75b3132c1882c567852ef687affb9956f7c2",
+  "start_year": 1301,
+  "stop_year": 1400
+ },
+ "Q135399": {
+  "portal_id": "mdata8a29e3324b50e4ac66f7cc0980105efb8779a402",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q135400": {
+  "portal_id": "mdata232577bc346252dfc21d8f0dadfea41ab4758e05",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q135434": {
+  "portal_id": "mdata32d2e6a9aaec38471c7db8c6f2cc93e252ae3068",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q135440": {
+  "portal_id": "mdata41f7043f13de5f32f8026b5de730e813805b9bea",
+  "start_year": 1459,
+  "stop_year": 1463
+ },
+ "Q135442": {
+  "portal_id": "mdatac8039fe4e37932b195078ca2c197ba7516807132",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q135445": {
+  "portal_id": "mdataf479e4ff4c94373bd54fd8d10a61283146d554c1",
+  "start_year": 1468,
+  "stop_year": 1503
+ },
+ "Q135461": {
+  "portal_id": "mdata18cc2766ef8a88502777eb3ce0c5f505daa8c519",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q151854": {
+  "portal_id": "mdata78b83204c7a4cd4d2a0c34361b694248da120be2",
+  "start_year": 1530,
+  "stop_year": 1550
+ },
+ "Q179188": {
+  "portal_id": "mdata59c3762228da3b86b0d92ac779d473e8a5bba508",
+  "start_year": 1450,
+  "stop_year": 1500
+ },
+ "Q182617": {
+  "portal_id": "mdata180795e10442e1d13fc42b1dc6788d32ad788495",
+  "start_year": 1365,
+  "stop_year": 1400
+ },
+ "Q183068": {
+  "portal_id": "mdata400158409d914f676187efd78f6e5a534113d884",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q183071": {
+  "portal_id": "mdatadc3097d879d1817be9e1a44c91500c39bf9f4fc9",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q183072": {
+  "portal_id": "mdata202203e853efd6cd42a73938b02ab4a0f77340a1",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q183073": {
+  "portal_id": "mdata382d1eec560b176e931a7fbfc5ca97b21107c8ec",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q186507": {
+  "portal_id": "mdataaefc9554741e3d0228163be0acff6cdbbf96f81a",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q196370": {
+  "portal_id": "mdata6b7a9052d4764bb0819500cf7d24dd2d38b6c7e4",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q196483": {
+  "portal_id": "mdatacbf6093c627340ec1aef5d15c72d5ed6b962202d",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q196506": {
+  "portal_id": "mdata62cd5ef38eef6a568e838a3c673032bc08616584",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q197607": {
+  "portal_id": "mdata272dd4d7ff9260d62a38ad7a43f2aa357215350d",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q198632": {
+  "portal_id": "mdata972694756128af3b1d2502e0676838f54651dc7f",
+  "start_year": 1450,
+  "stop_year": 1500
+ },
+ "Q198653": {
+  "portal_id": "mdatabf1b003f6c403eceb778a51c52c86d4b5e25e78a",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q203284": {
+  "portal_id": "mdatacfabf03ef41ba2ddfc8b3e19cbc9365fc320944b",
+  "start_year": 1410,
+  "stop_year": 1420
+ },
+ "Q203511": {
+  "portal_id": "mdata9c3d29e943bf4fef7a898714aec047f17eaf04b2",
+  "start_year": 1295,
+  "stop_year": 1305
+ },
+ "Q203674": {
+  "portal_id": "mdataab26c071f7aaff2ed9adb00fc791e4b76ea9ec63",
+  "start_year": 1475,
+  "stop_year": 1485
+ },
+ "Q203675": {
+  "portal_id": "mdata5d32ea9803c22900e6e0c9e9c2a96bcb89124352",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q203676": {
+  "portal_id": "mdata9f34a62d2465cd87c744291742fba54899b02f02",
+  "start_year": 1401,
+  "stop_year": 1475
+ },
+ "Q203677": {
+  "portal_id": "mdatabe3dd5d1ce7cabdfb4039e48a72bb1daacaa2e68",
+  "start_year": 1401,
+  "stop_year": 1600
+ },
+ "Q203773": {
+  "portal_id": "mdata216c5f72644fddfc20002deed431a22c91659950",
+  "start_year": 1450,
+  "stop_year": 1475
+ },
+ "Q203809": {
+  "portal_id": "mdatafa6711de3b27c2f390f9e8d6466c10dee0736e51",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q203828": {
+  "portal_id": "mdatab51c3f91ce5dab791c72c049f1fd04e678be43ad",
+  "start_year": 1501,
+  "stop_year": 1600
+ },
+ "Q203876": {
+  "portal_id": "mdata9bedeaee36a5ef113582cf9ce1dffd521fae4786",
+  "start_year": 1440,
+  "stop_year": 1460
+ },
+ "Q203883": {
+  "portal_id": "mdata02900b4e02ce81977d078cd65bc6f855fd0c46c2",
+  "start_year": 1301,
+  "stop_year": 1400
+ },
+ "Q204121": {
+  "portal_id": "mdata8132da4a58b0beb1495464ad2cab4ebb9f97762c",
+  "start_year": 1301,
+  "stop_year": 1500
+ },
+ "Q204380": {
+  "portal_id": "mdata99d69817a20e34e97bed943f3666e23aa61dd28d",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q204385": {
+  "portal_id": "mdata258b2e45881c5e7b2105b56378f5e053c6dbf0e4",
+  "start_year": 1201,
+  "stop_year": 1400
+ },
+ "Q204386": {
+  "portal_id": "mdata36fc967d987409a9c42774ece2952d966b7467c3",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q204387": {
+  "portal_id": "mdata0812911d290570170946d077aa8e10ac0cf58f91",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q204941": {
+  "portal_id": "mdata1b884e548a11fc428a41d1b0f29f5ee5b99ce8c5",
+  "start_year": 1401,
+  "stop_year": 1467
+ },
+ "Q204979": {
+  "portal_id": "mdata1ef6138d7ad2ad4f52893f03b69661a492d1cbaf",
+  "start_year": 1301,
+  "stop_year": 1325
+ },
+ "Q204992": {
+  "portal_id": "mdataadd587182991a7803cd3cf25bec4f055ac9ec293",
+  "start_year": 1448,
+  "stop_year": 1450
+ },
+ "Q205010": {
+  "portal_id": "mdatab8d2d83207e42e68f8ca62f9eaa1d5cf2f889ad9",
+  "start_year": 1301,
+  "stop_year": 1400
+ },
+ "Q205278": {
+  "portal_id": "mdatac4e1f26a3596f969b796a390220023114332d945",
+  "start_year": 1410,
+  "stop_year": 1420
+ },
+ "Q205280": {
+  "portal_id": "mdatab4116e1f83b9aa5b096d56b952e795305b068b56",
+  "start_year": 1490,
+  "stop_year": 1600
+ },
+ "Q205345": {
+  "portal_id": "mdata0872a72213f0e077a24e05e3de1b665095a68dc3",
+  "start_year": 1401,
+  "stop_year": 1425
+ },
+ "Q205516": {
+  "portal_id": "mdata3ff57da27268a98cad1ee62b44e45fbd894c78c2",
+  "start_year": 1375,
+  "stop_year": 1425
+ },
+ "Q205599": {
+  "portal_id": "mdatad24b76689e1bdb4c29ab0f75d3e0bda9c0010840",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q205682": {
+  "portal_id": "mdata1c6bd65e7fa003d15d94123de357d4c5ba39a3d0",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q205772": {
+  "portal_id": "mdatace42db43281adc47947095610490b7b671bf3271",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q205971": {
+  "portal_id": "mdata55c2dad42078f89d913a9e7c6de7cb97f579829e",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q206072": {
+  "portal_id": "mdata6dbdd4ae8e811eae351b6c80c3e24601a1e7ed71",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q206468": {
+  "portal_id": "mdata1ab9281091e48da371cda277373e3dd202447f8e",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q207339": {
+  "portal_id": "mdatab016b91cb0b9a7dd1247ddecddbd6015d50dbdf2",
+  "start_year": 1501,
+  "stop_year": 1600
+ },
+ "Q207795": {
+  "portal_id": "mdata08dea55c0e72316f144845ec5531aed0da50ad72",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q208126": {
+  "portal_id": "mdatace47e990f13d35ad21d2a9903ff85a41b6ebac23",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q208150": {
+  "portal_id": "mdatad7f86e74b6d047be6be09de6c20bb928c7ebc71f",
+  "start_year": 1342,
+  "stop_year": 1400
+ },
+ "Q208607": {
+  "portal_id": "mdatafdc0566a13b7bf37431f6cabb76b2b1cd1e52eb8",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q208916": {
+  "portal_id": "mdata850e33cd3e6918df0c336dc20ca75a1d1cc9c76d",
+  "start_year": 1445,
+  "stop_year": 1476
+ },
+ "Q208920": {
+  "portal_id": "mdata035eb794e23a1befd01c8a593827eb929a254ad6",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q208989": {
+  "portal_id": "mdata4ed312a8d260a6c12f492266bd06ea8d6b281213",
+  "start_year": 1479,
+  "stop_year": 1480
+ },
+ "Q208990": {
+  "portal_id": "mdata3433c59f1a3fa6495c13fa2b99ff77029504a385",
+  "start_year": 1479,
+  "stop_year": 1480
+ },
+ "Q208992": {
+  "portal_id": "mdata0f9903fe1ca12b6ae955baa3811eb45c1712f7ab",
+  "start_year": 1479,
+  "stop_year": 1480
+ },
+ "Q208993": {
+  "portal_id": "mdata9f83e3e73f90a0a72f7a1d38f1d2c8719b99beb8",
+  "start_year": 1450,
+  "stop_year": 1460
+ },
+ "Q209012": {
+  "portal_id": "mdatadfa02d44e5ef87b61b4d356c98313e55863ad921",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q209014": {
+  "portal_id": "mdata130c7e73f280891d7e840a02341a412d86128ee3",
+  "start_year": 1301,
+  "stop_year": 1400
+ },
+ "Q209015": {
+  "portal_id": "mdata4b9e8bd52a249630e299e803bba2d82203403c46",
+  "start_year": 1301,
+  "stop_year": 1400
+ },
+ "Q209029": {
+  "portal_id": "mdata2c53948a4d027c08eccdd3c4a633cf8a59a05af7",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q209053": {
+  "portal_id": "mdata2c8ba3f89e401b16fd8c86b1026e21cd89e06aec",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q209057": {
+  "portal_id": "mdatade4c3e3b8bb06cc80714ff097e3bfa7116081604",
+  "start_year": 1477,
+  "stop_year": 1485
+ },
+ "Q209062": {
+  "portal_id": "mdata986ff61e95deea6e3ec2d8e187045ebc72674a9b",
+  "start_year": 1450,
+  "stop_year": 1500
+ },
+ "Q209087": {
+  "portal_id": "mdataea00cab1725194e3c622b9eac1e37f637e2e59d8",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q209092": {
+  "portal_id": "mdata7afb421e6df0c17854a34b411a3762ab9a3c3f50",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q209117": {
+  "portal_id": "mdatad1caf07dfea41eb9de3090af2416149696be6c50",
+  "start_year": 1301,
+  "stop_year": 1400
+ },
+ "Q209127": {
+  "portal_id": "mdata5608905b0e8ff4ca39a6a99fb1b7d9bd6b80af04",
+  "start_year": 1201,
+  "stop_year": 1300
+ },
+ "Q209128": {
+  "portal_id": "mdata9b9431c27173ea103f301949386e860a2c0c3e2f",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q209129": {
+  "portal_id": "mdata86813dab1761dd629bf4ea5e7a0c3a0ecda3250d",
+  "start_year": 1455,
+  "stop_year": 1465
+ },
+ "Q209130": {
+  "portal_id": "mdata6de1e958c08886fd0ad194a9675e3e9a924eb224",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q209187": {
+  "portal_id": "mdatac9b658965cf48d477bcf4d331d4ae4d7e38b7f35",
+  "start_year": 1475,
+  "stop_year": 1500
+ },
+ "Q209268": {
+  "portal_id": "mdata1900f194e0e2d9bdf2826bcf5a16e395f3cf0f97",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q209640": {
+  "portal_id": "mdata202d63473ce3ca7901fe5d97f442e9502ce8f6f2",
+  "start_year": 1416,
+  "stop_year": 1417
+ },
+ "Q209678": {
+  "portal_id": "mdata7389506895c997058ea7e0ba5fee2a3b3a7b3880",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q211225": {
+  "portal_id": "mdatad536a5b6bc3cf983bbd2e0b3d863505b86872ba4",
+  "start_year": null,
+  "stop_year": null
+ },
+ "Q212703": {
+  "portal_id": "mdata4699235d4477faea1225bff7ebd64ab24dd02308",
+  "start_year": null,
+  "stop_year": null
+ },
+ "Q213493": {
+  "portal_id": "mdatad47bed5ba77bfc05a2c01ca3220f57a77e3cd169",
+  "start_year": null,
+  "stop_year": null
+ },
+ "Q234838": {
+  "portal_id": "mdata66dc12b568c72820e2f9e88b0eafe0fd7b92808a",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q235194": {
+  "portal_id": "mdatae7b9f21566f0cdc00b2c12172f937616dd53a29d",
+  "start_year": 1450,
+  "stop_year": 1475
+ },
+ "Q235493": {
+  "portal_id": "mdatac851d9ddfdd344e69b7d07c67cb28c664aad4677",
+  "start_year": 1425,
+  "stop_year": 1460
+ },
+ "Q235987": {
+  "portal_id": "mdatac525a652afe6370ecea755fc87421fede02c51fc",
+  "start_year": 1475,
+  "stop_year": 1500
+ },
+ "Q235988": {
+  "portal_id": "mdataf8648e5255b6ff6c9d9f4afd42cebe0187da1f4b",
+  "start_year": 1450,
+  "stop_year": 1475
+ },
+ "Q235990": {
+  "portal_id": "mdata814793cc440cae6d87060f68599340e047268d12",
+  "start_year": 1301,
+  "stop_year": 1400
+ },
+ "Q235996": {
+  "portal_id": "mdata24cc208985a953ca76a758b0e5cf9f2c74c2ac85",
+  "start_year": 1301,
+  "stop_year": 1350
+ },
+ "Q235997": {
+  "portal_id": "mdata4cd7f341d357b187359742e3701eeeedcd02ef82",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q236274": {
+  "portal_id": "mdataf751aa482e2871b4b4e84a0f321729f444a084be",
+  "start_year": 1301,
+  "stop_year": 1400
+ },
+ "Q236414": {
+  "portal_id": "mdatada2e74d05cd1408e98028420d1ea3ddf6cc0061c",
+  "start_year": 1291,
+  "stop_year": 1301
+ },
+ "Q236424": {
+  "portal_id": "mdata6bf845c7319cbd5878d25488acd631f478b05e85",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q236488": {
+  "portal_id": "mdata04feadcfcc86933d8e2e34ce038527fff8aa098f",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q236497": {
+  "portal_id": "mdatad2581f2b9bc096780c3d6cea8b2ecc1ba0198951",
+  "start_year": 1301,
+  "stop_year": 1500
+ },
+ "Q236562": {
+  "portal_id": "mdata0c7414f24bc561cb00381f6ff525035de3765dba",
+  "start_year": 1475,
+  "stop_year": 1485
+ },
+ "Q236672": {
+  "portal_id": "mdatac73177a2dabf898c5e9dfb04044c67db8efef29b",
+  "start_year": 1401,
+  "stop_year": 1425
+ },
+ "Q236725": {
+  "portal_id": "mdata390713e13956e68b85f9a142060339e91921f81a",
+  "start_year": 1375,
+  "stop_year": 1400
+ },
+ "Q236849": {
+  "portal_id": "mdata6cfa8ef8d7bcb1fc57391b4619cecb9575cdbeed",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q236939": {
+  "portal_id": "mdata1f7817183d3c029ae096d2f2924734b893662eec",
+  "start_year": 1301,
+  "stop_year": 1500
+ },
+ "Q236977": {
+  "portal_id": "mdatabbe4557b831ae5080b176507f06ae01356eb8612",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q236978": {
+  "portal_id": "mdatadd3a5f9f2b5a6eb0d495278d10e66de2ef956b05",
+  "start_year": 1301,
+  "stop_year": 1400
+ },
+ "Q237140": {
+  "portal_id": "mdata3b35e08bfd789a30e24364522dca72cbd60c8ffe",
+  "start_year": 1375,
+  "stop_year": 1400
+ },
+ "Q237220": {
+  "portal_id": "mdata46381b3406321ba6d169a3f2f10248f4227927ba",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q239004": {
+  "portal_id": "mdata7610f7fd333cc31b1194d3c8aa8010a6f4ef2b20",
+  "start_year": 1475,
+  "stop_year": 1500
+ },
+ "Q239199": {
+  "portal_id": "mdata9a1625cf4bbda72105fa3a10785105f71e2dc054",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q239320": {
+  "portal_id": "mdata09510fcd600564e0e942e28389775baacf9df6fe",
+  "start_year": 1475,
+  "stop_year": 1500
+ },
+ "Q239321": {
+  "portal_id": "mdatadce46d077e0f78f10eacb3b4814ead107c55cf32",
+  "start_year": 1475,
+  "stop_year": 1500
+ },
+ "Q239343": {
+  "portal_id": "mdatae720b809fdaa1d7b84c192feb070575266e761ca",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q239344": {
+  "portal_id": "mdata4cac489ab48827cedae3d44b1aa759abba272e7a",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q240576": {
+  "portal_id": "mdatac6646d21d80878185a3f1e8411362782b30541e6",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q240577": {
+  "portal_id": "mdata4e76802c9400e6dfc5f58625a975f42af65dd590",
+  "start_year": 1450,
+  "stop_year": 1500
+ },
+ "Q240867": {
+  "portal_id": "mdata44b2d72c8b1e06f1003a1ebe208c8e471bcbf9fa",
+  "start_year": 1440,
+  "stop_year": 1460
+ },
+ "Q240934": {
+  "portal_id": "mdata2152448599bcf028156aad3ac9908e7e0c7894c5",
+  "start_year": 1201,
+  "stop_year": 1300
+ },
+ "Q240953": {
+  "portal_id": "mdata608417cf3860d5825a1c29546a812ad31310e7ab",
+  "start_year": 1455,
+  "stop_year": 1465
+ },
+ "Q241203": {
+  "portal_id": "mdata2dcd6d9113b34c12c4bdb3913302a582c2747201",
+  "start_year": 1460,
+  "stop_year": 1465
+ },
+ "Q241214": {
+  "portal_id": "mdata605dd8d6bd777d8b3d5253742923d32c401aa638",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q241472": {
+  "portal_id": "mdatada7e4ec7078183c2a642fcc70a017877d98c7aad",
+  "start_year": 1401,
+  "stop_year": 1425
+ },
+ "Q241745": {
+  "portal_id": "mdatabd85cceaceda2995a5f97427c87aa75f48c0528c",
+  "start_year": 1301,
+  "stop_year": 1325
+ },
+ "Q241838": {
+  "portal_id": "mdataa8e7d1e89bc80c38495f064046fe63a9389c75d2",
+  "start_year": 1325,
+  "stop_year": 1335
+ },
+ "Q242865": {
+  "portal_id": "mdatae64657ed64d97feb850a6fff77bd29c03519685e",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q242869": {
+  "portal_id": "mdata0c1b13c76b502a34803e39bd38b0484f444b27b7",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q243017": {
+  "portal_id": "mdata597d3a5a3ed88fd9b25a902bfc843a98c4b715fb",
+  "start_year": 1375,
+  "stop_year": 1385
+ },
+ "Q243018": {
+  "portal_id": "mdata27a54fc3af5152def7436015a9d16103c18444b2",
+  "start_year": 1375,
+  "stop_year": 1385
+ },
+ "Q243020": {
+  "portal_id": "mdatadf10d3d1543fe9846afa1bf1bb74b95da652a753",
+  "start_year": 1301,
+  "stop_year": 1400
+ },
+ "Q264012": {
+  "portal_id": "mdataaea1be1262639dfe1d76e16c930717291c2b73c0",
+  "start_year": 1418,
+  "stop_year": 1500
+ },
+ "Q267845": {
+  "portal_id": "mdata58f26681c229cf4cfbb9d56b843cafd036aeb5a6",
+  "start_year": 1301,
+  "stop_year": 1400
+ },
+ "Q268145": {
+  "portal_id": "mdata23dc707455ee6da7b8e54c199ba347b95b4ab52f",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q268300": {
+  "portal_id": "mdata0573e59c3a0748d903bdde20d0c74ff2b7c0fbd3",
+  "start_year": 1289,
+  "stop_year": 1400
+ },
+ "Q269460": {
+  "portal_id": "mdatac74ca380c8e643ee6d31bcbdd956b622dd5ac68b",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q271908": {
+  "portal_id": "mdata7a530e48ca0b35b5f0100d92a6d579db379cb02e",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q271922": {
+  "portal_id": "mdatab210c29a25216d65cf321610d6f9c4859279cb3a",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q271928": {
+  "portal_id": "mdata8cc8bc372de8217ac1e39fd5c3880e26bb0803d9",
+  "start_year": 1475,
+  "stop_year": 1500
+ },
+ "Q271929": {
+  "portal_id": "mdata676a8e95adf58e454da3ac0408c3ce00ce8b0d20",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q271930": {
+  "portal_id": "mdata7134a72c357365aef00f11a248b7842ae410a6d9",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q271964": {
+  "portal_id": "mdata3f18a3538ec46c64b7217b63f5a16455fb2b7352",
+  "start_year": 1475,
+  "stop_year": 1500
+ },
+ "Q273889": {
+  "portal_id": "mdata5aa725c0e8e5d8eb4bf5eac3ab1b15c3de601bec",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q275388": {
+  "portal_id": "mdatad6052bd52d9ba09499452a19dbb09cde32520e57",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q275415": {
+  "portal_id": "mdataa1c60bca062472de53925b03bf399a363497f8ec",
+  "start_year": 1448,
+  "stop_year": 1448
+ },
+ "Q275426": {
+  "portal_id": "mdataf06300892fa1b052367174880ddcf32d6f622f92",
+  "start_year": 1301,
+  "stop_year": 1400
+ },
+ "Q275437": {
+  "portal_id": "mdataf8e5d07f6c234be69faa2b7df9dd438598d93547",
+  "start_year": 1400,
+  "stop_year": 1600
+ },
+ "Q275500": {
+  "portal_id": "mdata489aca2c731d7983b6de45de50f4ec2d9ffe85f2",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q275533": {
+  "portal_id": "mdataea631c565160ad022d75cebe4db119182e4f380f",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q275741": {
+  "portal_id": "mdataea976f04e0f0a1a91d390e88fadf9eeb8a3bbc84",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q276248": {
+  "portal_id": "mdata1d7495b7ac5e22e7f1204b2c85bbe811c0305cdc",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q276262": {
+  "portal_id": "mdatacbc512c051514f0c0e56ba5a00a26f6c59d17613",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q276707": {
+  "portal_id": "mdatac4cc76255114a994130fcec1f4f9f08ffabe91fa",
+  "start_year": 1235,
+  "stop_year": 1600
+ },
+ "Q276722": {
+  "portal_id": "mdatae752a9ca2506065568daf928741a5541cb7efbda",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q277632": {
+  "portal_id": "mdata53e3e98a8982d4a28abdb6c490ba9104cb392db8",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q34126": {
+  "portal_id": "mdata303b9c242a006a21739b9d9783310fcae44887b8",
+  "start_year": 1301,
+  "stop_year": 1400
+ },
+ "Q34147": {
+  "portal_id": "mdata83073a8e8788b918aeecb102fb5ec5da8999fb7a",
+  "start_year": 1332,
+  "stop_year": 1335
+ },
+ "Q34211": {
+  "portal_id": "mdatadafb12110ba4a1938b20b67d14e7fdb3b5d96c72",
+  "start_year": 1370,
+  "stop_year": 1375
+ },
+ "Q362303": {
+  "portal_id": "mdatac1575fcc4a6d2c1d82da784d19749c4fe70984e6",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q392837": {
+  "portal_id": "mdatadb89905a7f444973b5d9728317f9b24ad002907b",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q403853": {
+  "portal_id": "mdatae679b880387a21a66ffc2adc2606d5c1023de7c1",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q417359": {
+  "portal_id": "mdata55b2b42472afc4efb24ae9638bbaef9e42eba61e",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q420642": {
+  "portal_id": "mdata11e7a6404c5f36914a4535554d8f6e1322b88212",
+  "start_year": 1350,
+  "stop_year": 1400
+ },
+ "Q45239": {
+  "portal_id": "mdata96563c8ff58162d33e5c00943fcbfa64b31b596c",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q45260": {
+  "portal_id": "mdata567c74f8bea7d613920b56905a1e8d44f0461610",
+  "start_year": 1301,
+  "stop_year": 1400
+ },
+ "Q45306": {
+  "portal_id": "mdata0667f13682b41f9a30be7a666679f285659af6e2",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q45348": {
+  "portal_id": "mdata6520c069647331787891f41aeba4ecf74fa1f273",
+  "start_year": 1501,
+  "stop_year": 1525
+ },
+ "Q45354": {
+  "portal_id": "mdata310eff6ba8644260615d616c08280ec3b080b010",
+  "start_year": 1450,
+  "stop_year": 1475
+ },
+ "Q45373": {
+  "portal_id": "mdataf8e3a44a4a871e3afe3d67630758c71a9865f243",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q45374": {
+  "portal_id": "mdatab077484ea5e3841d16c72a2630e2170112fc52c9",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q45385": {
+  "portal_id": "mdataf5f4958aeed37fb824f62e918e988b6194bcd422",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q45386": {
+  "portal_id": "mdataa608613cc40fa5a575a70cbb2e9f6bbaccdd1918",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q45440": {
+  "portal_id": "mdata8f69f590dea87a2bd5c48765bed2027ac5c84879",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q45484": {
+  "portal_id": "mdata9b050bb0b00ab0fda84e01f26d8c544901ca3192",
+  "start_year": 1201,
+  "stop_year": 1300
+ },
+ "Q45485": {
+  "portal_id": "mdata95c9af0e495001a58ba1d91108996e6f8ddfa404",
+  "start_year": 1375,
+  "stop_year": 1400
+ },
+ "Q45512": {
+  "portal_id": "mdata9c5067eacfac87ef2a1894bcd6ed7b39fc7bddfc",
+  "start_year": 1501,
+  "stop_year": 1600
+ },
+ "Q45516": {
+  "portal_id": "mdataec45901b3020257850ff4de55b01aa39be7c7a98",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q45528": {
+  "portal_id": "mdata9dd7b1da8f937f365e7da432cbb0fc60f37ab8af",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q45536": {
+  "portal_id": "mdata4180c7a3e7ab021fdedeaab5385347f19e67f381",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q45548": {
+  "portal_id": "mdataf7f5404de34f97d0b98f42f1be0d64a7b78ed7b5",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q45595": {
+  "portal_id": "mdata13d10568bbc93873af75fbf20401cd6f5041e1f6",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q45643": {
+  "portal_id": "mdatacdd56dbafe91a360b4e2b7945de20521e8c8f2f6",
+  "start_year": 1201,
+  "stop_year": 1400
+ },
+ "Q45651": {
+  "portal_id": "mdata07ee20095c9a74f2d3251e297af55fc5c54ed3f2",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q45667": {
+  "portal_id": "mdataea3d01ce95255af0e646496ba035000325d89bed",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q45690": {
+  "portal_id": "mdataef014c536828655547bf414008fbd953939bcfc0",
+  "start_year": 1375,
+  "stop_year": 1400
+ },
+ "Q45696": {
+  "portal_id": "mdatadb55010b94b03aee3842081b7a1ac518025176a5",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q45699": {
+  "portal_id": "mdataa3785788d8608a37f9b7c29aa2c0a93f1e3d930d",
+  "start_year": 1413,
+  "stop_year": 1414
+ },
+ "Q45702": {
+  "portal_id": "mdata43a6352c8c5dd795fdee5c81d99591009f1d3d25",
+  "start_year": 1405,
+  "stop_year": 1406
+ },
+ "Q45711": {
+  "portal_id": "mdataeac03f0176117f6b0697e4f00605bf05bdccf13a",
+  "start_year": 1450,
+  "stop_year": 1475
+ },
+ "Q45739": {
+  "portal_id": "mdata637c9471a35642aa64f1c93375ff5b1709190f6e",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q45806": {
+  "portal_id": "mdata48505b8b38d8c8dce111e7b5bd7a9f90d4ba518a",
+  "start_year": 1301,
+  "stop_year": 1400
+ },
+ "Q45814": {
+  "portal_id": "mdataa587f62e6d20fecf56974bc2f211a76d64981df7",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q45824": {
+  "portal_id": "mdata515e3f09946557aa6aee1a1945ebdd1a29612820",
+  "start_year": 1470,
+  "stop_year": 1480
+ },
+ "Q45871": {
+  "portal_id": "mdata4d5948f06dec48d91397f378b481784b2bbca90a",
+  "start_year": 1340,
+  "stop_year": 1350
+ },
+ "Q45912": {
+  "portal_id": "mdata9fa4a11544f862366803ffb47449143f8fa89fae",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q45914": {
+  "portal_id": "mdatae08c9677744d1175c0c025af9092d4f3de62eeca",
+  "start_year": 1501,
+  "stop_year": 1600
+ },
+ "Q45924": {
+  "portal_id": "mdata36a70ee563aa107498535e1ec1ae4ba4cd79f8a7",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q45934": {
+  "portal_id": "mdata4b38206e2e472b2abd0d7440f17a9434882c1364",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q45985": {
+  "portal_id": "mdatadc416af968bcddf01d7911db6e83f35556848dc1",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q45990": {
+  "portal_id": "mdata5374e6260b0b14055a1f2d7bbf7692b2c5f6a47a",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q46210": {
+  "portal_id": "mdata04ef42ca3abfde472f10ca85aa7c1d1025658fd6",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q46278": {
+  "portal_id": "mdata742d405e396c3288d33d515777ed3a418119131b",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q46290": {
+  "portal_id": "mdata798ed9e96f9bc5fae7633ecf8339659afa97000d",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q46291": {
+  "portal_id": "mdataedf726e8409003118e1feea7dc90ad198a0f8c98",
+  "start_year": 1501,
+  "stop_year": 1600
+ },
+ "Q46292": {
+  "portal_id": "mdataea39fd11fe1a1174d9859ceb8765602d5e3cd183",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q46297": {
+  "portal_id": "mdataaa24e22bc0a20d8d947e9c93ef7ce3f862693f0e",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q46298": {
+  "portal_id": "mdatafe11692f7e01e1ae9116a01e014ee31a26888ca0",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q46349": {
+  "portal_id": "mdata90ed063345fc9f6a8f684ae8a1f80b8ff8f35a36",
+  "start_year": 1270,
+  "stop_year": 1320
+ },
+ "Q46474": {
+  "portal_id": "mdatabde3b075702405f0613e42a01bfd26e2dce3bc62",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q46502": {
+  "portal_id": "mdataa87d1533e4ffdbe62e8fa71a7d24dca60b4fc442",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q46507": {
+  "portal_id": "mdataac0418be2e1e67ea1f9188e3487f64c33368cef0",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q46654": {
+  "portal_id": "mdataf020e3cbb5314eb8988399e570dc9c481ea9e1d4",
+  "start_year": 1501,
+  "stop_year": 1600
+ },
+ "Q46759": {
+  "portal_id": "mdatad0280e7da51a2aa10756a5cc12183fbc2eb46a72",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q46765": {
+  "portal_id": "mdataed6dc3bfd6a82d8243f8d6bd2620ed79b00a47a9",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q46815": {
+  "portal_id": "mdata0ba707ef33a8d9feb53d8c4f29a6700f21010b4f",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q46853": {
+  "portal_id": "mdata53a6da90f788dc2179c7a62dd0063e2edb1adbc6",
+  "start_year": 1501,
+  "stop_year": 1600
+ },
+ "Q46967": {
+  "portal_id": "mdatac24b007a28bc000064d538213d5da99ff728fe8c",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q46972": {
+  "portal_id": "mdatadbe416b0ace4c514dc316ae7ea932a2b6e9ab282",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q46986": {
+  "portal_id": "mdata46ad68168d2fd3f8bbc0f3114c9924e9abc58fda",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q46990": {
+  "portal_id": "mdatad950409bc90ef6497441563db26988f635ede4dc",
+  "start_year": 1301,
+  "stop_year": 1400
+ },
+ "Q46994": {
+  "portal_id": "mdata07b9064d96d2a583e6d980b457cc48c4a08041b7",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q46995": {
+  "portal_id": "mdatac51736100867a53b4a3ecd2ef04ae95f8c7a77ae",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q47004": {
+  "portal_id": "mdataab07719cb65ff58fd29b80055b70bcccd583487d",
+  "start_year": 1501,
+  "stop_year": 1700
+ },
+ "Q47008": {
+  "portal_id": "mdata8fb5730652a4682bf035a3f5c4045417e7b41425",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q47077": {
+  "portal_id": "mdatae5f186ccecd6b799d907cfe2336864c5fbe2c61e",
+  "start_year": 1310,
+  "stop_year": 1320
+ },
+ "Q47221": {
+  "portal_id": "mdata298d398e2f3a81d619ed86555c51430f45374c78",
+  "start_year": 1395,
+  "stop_year": 1401
+ },
+ "Q47260": {
+  "portal_id": "mdata89cf7bae55f4d8984233e4b9644bebb5dc23242d",
+  "start_year": 1301,
+  "stop_year": 1400
+ },
+ "Q47349": {
+  "portal_id": "mdatac6804f5e99a6be3607737e41bdac240086743ab7",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q47352": {
+  "portal_id": "mdata01edf06a5c2dbb4f1dc22392a9578f2e8421ad00",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q47358": {
+  "portal_id": "mdata1ec4eef240dff49113f9a2e44a5a357c2b79fe34",
+  "start_year": 1375,
+  "stop_year": 1400
+ },
+ "Q47369": {
+  "portal_id": "mdatac39b9cc5d357ceaa1fd5a27ab7154e8c1eb3eb78",
+  "start_year": 1475,
+  "stop_year": 1480
+ },
+ "Q47438": {
+  "portal_id": "mdataf93eb458aeffb39fed5e3b8e2a7c465853b9f505",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q47455": {
+  "portal_id": "mdata5217573efa33a5c6de94e346b41de71ad4d99422",
+  "start_year": 1301,
+  "stop_year": 1400
+ },
+ "Q47457": {
+  "portal_id": "mdata81f759f406623c1968d9a02ddda9e93b899dbd0d",
+  "start_year": 1301,
+  "stop_year": 1400
+ },
+ "Q47468": {
+  "portal_id": "mdata9983a5ffa3811030e9766322bebe173359242642",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q47474": {
+  "portal_id": "mdatab71c0b1cba567135692aaac8c6109de0037c2932",
+  "start_year": 1501,
+  "stop_year": 1600
+ },
+ "Q47514": {
+  "portal_id": "mdata505933bcfdb28a8bdf6e5d93724fc1259c0d93a4",
+  "start_year": 1201,
+  "stop_year": 1350
+ },
+ "Q47518": {
+  "portal_id": "mdatae61706f17bcdc457d12e7794d8de59e2428821ef",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q47542": {
+  "portal_id": "mdatabaf938c6c341cfb9edc58b914e15e95fb062ca50",
+  "start_year": 1407,
+  "stop_year": 1407
+ },
+ "Q47555": {
+  "portal_id": "mdatab9fd0e0ba5826e3870eef6a06bce75767c7a1284",
+  "start_year": 1407,
+  "stop_year": 1407
+ },
+ "Q47573": {
+  "portal_id": "mdata4591a6f9a67cb023bd108aa7ee7fe13b9cb2173d",
+  "start_year": 1400,
+  "stop_year": 1500
+ },
+ "Q47606": {
+  "portal_id": "mdatae9fe9872fa28460b961b6820bed2ce577ac9cddf",
+  "start_year": 1380,
+  "stop_year": 1390
+ },
+ "Q47668": {
+  "portal_id": "mdataf52b643913ccc82235b61471fd3c8f26d00500e4",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q47716": {
+  "portal_id": "mdata67155785ea6cdaf1816ea7ee59331fa5af041bb8",
+  "start_year": 1460,
+  "stop_year": 1470
+ },
+ "Q47725": {
+  "portal_id": "mdata8abf4c943cbcc4db5a689bf8b7aacf12688805b8",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q47733": {
+  "portal_id": "mdata35f9a49998c5274a850530f023369de3dbeaba37",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q47748": {
+  "portal_id": "mdataa06a6b91cf27c89a2cd9612f40724be4fb1f0a5d",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q47760": {
+  "portal_id": "mdatacf03cb8f58a84e5dfec2279675d745f99b6723d2",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q47777": {
+  "portal_id": "mdataf4bd78f041390efb29af8addcef9846e71456f93",
+  "start_year": 1201,
+  "stop_year": 1300
+ },
+ "Q47782": {
+  "portal_id": "mdata580e3de1d82fba88e0495019ecb9f568c5bd1ace",
+  "start_year": 1425,
+  "stop_year": 1450
+ },
+ "Q47786": {
+  "portal_id": "mdata9fe00375892a57097451c079d6e86a2eefb46b74",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q47789": {
+  "portal_id": "mdata8901a9eb69cd54c57b5e480de72122d36097206f",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q47792": {
+  "portal_id": "mdatae19b5dd982d17bb4c4f3450cff981dc06eb7c8ae",
+  "start_year": 1320,
+  "stop_year": 1330
+ },
+ "Q47813": {
+  "portal_id": "mdatac20c150216232df5fd40faa854dd18a0d8679f10",
+  "start_year": 1501,
+  "stop_year": 1600
+ },
+ "Q47861": {
+  "portal_id": "mdataa79ca7d4fa47de3b0438a5e4e9f7b6ace7d3ecd7",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q47882": {
+  "portal_id": "mdataf9b7d132da9f866efe081c973c52b60db39b7abf",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q47883": {
+  "portal_id": "mdatab48497d6bb43eb3dd9592bc8b0ba92f46e9f6db6",
+  "start_year": 1300,
+  "stop_year": 1350
+ },
+ "Q47907": {
+  "portal_id": "mdatacdde869a6d7d24bec2c2dc8ad690c2d0803ea024",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q48001": {
+  "portal_id": "mdata34efaa30044249eac4d711a41582c001862964cb",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q48058": {
+  "portal_id": "mdata89b59b5039301156cbcbeadebddc0000399660ce",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q48074": {
+  "portal_id": "mdata6ba6b0af07f6fe53e12dbbdd1d14756b54052b3e",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q48083": {
+  "portal_id": "mdata2acba0c4415ff7315f38e1d5b0e5aa2dccff5a75",
+  "start_year": 1301,
+  "stop_year": 1400
+ },
+ "Q48279": {
+  "portal_id": "mdata9a5ab7edd56b12793e01aa892fbb93b236f8fa15",
+  "start_year": 1350,
+  "stop_year": 1355
+ },
+ "Q48281": {
+  "portal_id": "mdata40a4a33dafdb0e95e266a5eafc79caf1b13adeda",
+  "start_year": 1300,
+  "stop_year": 1400
+ },
+ "Q48296": {
+  "portal_id": "mdata2819180e6a1027ee901106a978417798afed4121",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q48301": {
+  "portal_id": "mdatacbedb240421000ffecf161b6c7f13f22b5a248cc",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q48346": {
+  "portal_id": "mdata20c3be26feb2d3c2211572eb4e7e902fcb8b4505",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q48349": {
+  "portal_id": "mdata616685b33fa34881703ec27be1de0dce9cebd8f4",
+  "start_year": 1301,
+  "stop_year": 1400
+ },
+ "Q48350": {
+  "portal_id": "mdatad80cf42b5ef99aa213f672771ae9b0ed66c56592",
+  "start_year": 1301,
+  "stop_year": 1400
+ },
+ "Q48352": {
+  "portal_id": "mdata919e28145d36cffcd5daeaa3319fe16aa460d583",
+  "start_year": 1301,
+  "stop_year": 1400
+ },
+ "Q48357": {
+  "portal_id": "mdataf880c4d9ef2487b5f9290a6dfdcf4cd6478ad15a",
+  "start_year": 1301,
+  "stop_year": 1400
+ },
+ "Q48358": {
+  "portal_id": "mdata2a736fda793739a2f7e8fca9108c9080bb1f636d",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q48361": {
+  "portal_id": "mdatac76a66cca7fc83804844e1976546761b22c4356d",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q48366": {
+  "portal_id": "mdata8369eb31ed8c420b88fb8dd00c286403a24892f8",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q48504": {
+  "portal_id": "mdata11e139b61bac2fd07000e6ae5e904d468a110b6e",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q48506": {
+  "portal_id": "mdata1bcd35dcdb0d9bc06bbc68ae236254bd948f4e08",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q48556": {
+  "portal_id": "mdatac04544a6ae7f4d14160ca044c13f7fdff3e86beb",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q48574": {
+  "portal_id": "mdata3f111857a569f1a8c6c99a01c313564d02b940b9",
+  "start_year": 1390,
+  "stop_year": 1420
+ },
+ "Q48859": {
+  "portal_id": "mdata4a41fa483c690107af0b682b4ba0c1ed6700c3f8",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q48923": {
+  "portal_id": "mdata63b6e4b1f8e7dafa9c5404c54fa8b21f002591d1",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q48958": {
+  "portal_id": "mdataea2523767554f6b745b60d947fd8fe87a68eae45",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q48959": {
+  "portal_id": "mdatad508c9b39f6da0042fa640d4c59ef567587ba519",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q48960": {
+  "portal_id": "mdata62301255040498a36102e20f00f6bd936fdfdc0b",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q48965": {
+  "portal_id": "mdata7b55c1f794fbb6c72fe2c9adbfdd35ae99809b8d",
+  "start_year": 1480,
+  "stop_year": 1485
+ },
+ "Q48966": {
+  "portal_id": "mdata4cd783c2d0884e1f3dee8fb16b0bf9bdae66e3ca",
+  "start_year": 1501,
+  "stop_year": 1600
+ },
+ "Q48975": {
+  "portal_id": "mdata3d9a4594328cd2f1c667b695c6fd013456c47f6a",
+  "start_year": 1495,
+  "stop_year": 1495
+ },
+ "Q49031": {
+  "portal_id": "mdata085033f508a00c5af844e3783041337154332522",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q49033": {
+  "portal_id": "mdatabe3b690d26e3b123ad192ab3fbac7a6bcc64e76d",
+  "start_year": 1409,
+  "stop_year": 1425
+ },
+ "Q49046": {
+  "portal_id": "mdata0b7b55a9886157240b459ea1263f7db2814bf15e",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q49047": {
+  "portal_id": "mdata3a4f4ca7fefcfc622a74c947cf311a14197c64df",
+  "start_year": 1410,
+  "stop_year": 1420
+ },
+ "Q49048": {
+  "portal_id": "mdata0ad5954042585d5d37ec4abbeb3f6b697e0e3abd",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q49050": {
+  "portal_id": "mdata381378a3220e92337e4e2f0dbae0ead76c215dfb",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q49051": {
+  "portal_id": "mdata2b59c5212d900e1dee76662a5c4f45e2c506d8d0",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q49052": {
+  "portal_id": "mdata41239ac588121929c8bcd5e133dab0538de5b092",
+  "start_year": 1250,
+  "stop_year": 1275
+ },
+ "Q49058": {
+  "portal_id": "mdata6cd53ec4d49c9e4be51429ef3833c3b0ab1900f4",
+  "start_year": 1465,
+  "stop_year": 1475
+ },
+ "Q49082": {
+  "portal_id": "mdata873d9d29942a9920848ecfbcb9f983ded30d2331",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q49083": {
+  "portal_id": "mdata90afc8194f4ce9b5f9bd698b05147d38469849c4",
+  "start_year": 1201,
+  "stop_year": 1300
+ },
+ "Q49084": {
+  "portal_id": "mdatad805b385ae2adc4580bbdef6f4efe62d7e274758",
+  "start_year": 1201,
+  "stop_year": 1300
+ },
+ "Q49085": {
+  "portal_id": "mdata28d04254bd7386a9f95fa9ab53f26750b9326c8a",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q49086": {
+  "portal_id": "mdata86375864e9a6c34633d2c25ac8e09701b787659a",
+  "start_year": 1201,
+  "stop_year": 1400
+ },
+ "Q49119": {
+  "portal_id": "mdata9bc450ee8d1f8cc6904ea33c5404c6c156341c83",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q49271": {
+  "portal_id": "mdataff21a95c7a4c8beb36bf7a427f04d6e144f4ca45",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q49306": {
+  "portal_id": "mdataaa3f7454ef776cea808bd7dd73ee7fb0a2233180",
+  "start_year": 1301,
+  "stop_year": 1400
+ },
+ "Q49321": {
+  "portal_id": "mdata7f03ec87fff922c1bb083828e75c0e8f6ddb22d1",
+  "start_year": 1501,
+  "stop_year": 1600
+ },
+ "Q49352": {
+  "portal_id": "mdata305a1d412c4368a16234526cffec62a41aecd492",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q49358": {
+  "portal_id": "mdata19230eb3c1e279f22d772578a821f88227bb456a",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q49359": {
+  "portal_id": "mdata97ef1d17c6c322c9827e32a0fb5401c40d4caab6",
+  "start_year": 1405,
+  "stop_year": 1406
+ },
+ "Q49360": {
+  "portal_id": "mdata30c99f02b818d336b6577a3c91122d9b2625edf0",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q49362": {
+  "portal_id": "mdata2516f00d55bdb0949256323b93a04ea5c33fbf72",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q49365": {
+  "portal_id": "mdata79f16c5f0223f0a59cd024b0eda9d130377f3e32",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q49377": {
+  "portal_id": "mdata00e0ab22833d50b939801d2b6ead1a2fa59074e5",
+  "start_year": 1357,
+  "stop_year": 1455
+ },
+ "Q49423": {
+  "portal_id": "mdatad0322d61cd7e8836c41788e4f75734604e34c612",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q49437": {
+  "portal_id": "mdatabe10f4096ea1d08dbcae19b007a7c5a4703c081d",
+  "start_year": 1290,
+  "stop_year": 1320
+ },
+ "Q49440": {
+  "portal_id": "mdatacd216c4e43cedd77caf9b066d1f1509615cd1d01",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q49445": {
+  "portal_id": "mdatab8bb6a6035d6243cd5e198883bf97f2d225b630e",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q49469": {
+  "portal_id": "mdatad1647c605bf5286429b4455652354a68112c03eb",
+  "start_year": 1301,
+  "stop_year": 1500
+ },
+ "Q49513": {
+  "portal_id": "mdataf21d583ceb0ec93cb710874141c510a7fa161a85",
+  "start_year": 1201,
+  "stop_year": 1300
+ },
+ "Q49527": {
+  "portal_id": "mdatad03c78131b67b04055bd24f1572b93550ba9afe0",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q49532": {
+  "portal_id": "mdata3de56c3d0e77df0eb2d3471a911ff2cf93e9c8c0",
+  "start_year": 1410,
+  "stop_year": 1475
+ },
+ "Q49568": {
+  "portal_id": "mdataa9eecaeee83b67d8dc8cc5bc5d0ac26da34f052b",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q49620": {
+  "portal_id": "mdataf9fac7eaecbc12a074541287609f5789137f7893",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q49640": {
+  "portal_id": "mdata69a32439986675e68f921f3da17d5413b06f6455",
+  "start_year": 1301,
+  "stop_year": 1400
+ },
+ "Q49677": {
+  "portal_id": "mdata8540cb77e8d74f35cf8e1379fb85881807e8e8e0",
+  "start_year": 1470,
+  "stop_year": 1475
+ },
+ "Q49733": {
+  "portal_id": "mdata2791cb9ed269f9911e803f8a35f83504e3a2a14c",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q49751": {
+  "portal_id": "mdata93bdbfe0e405c9de64d6ecc2a7e1644739647eef",
+  "start_year": 1201,
+  "stop_year": 1300
+ },
+ "Q49761": {
+  "portal_id": "mdataa197ddfa3c65866da8adf237673f372840ef0f46",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q49772": {
+  "portal_id": "mdata909009c9b2aaf6496deba719ef0fdf1fb06766e7",
+  "start_year": 1465,
+  "stop_year": 1485
+ },
+ "Q49824": {
+  "portal_id": "mdata462496a932120d62c23f01b570c6956e2eb51664",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q49826": {
+  "portal_id": "mdatab0e7c2012e8038d2510710928fef2d0bc62236d5",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q49828": {
+  "portal_id": "mdata957445d487c3be5e7050848f54e771bc4bb06fdf",
+  "start_year": 1475,
+  "stop_year": 1480
+ },
+ "Q49836": {
+  "portal_id": "mdataa22f71ffbc66c6bf4b5373cf4752211460dffc4a",
+  "start_year": 1405,
+  "stop_year": 1415
+ },
+ "Q49864": {
+  "portal_id": "mdata52e8ea789061433f367158ee61bbba70618a4473",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q49867": {
+  "portal_id": "mdatab3287d340df274dd39f816325dc74ff3d687c5f3",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q49870": {
+  "portal_id": "mdata5da8fb0fd7921b4e9dd80b2ae9155aaf885141fb",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q49878": {
+  "portal_id": "mdata4dc594f04a62ab42a34e71ed05a1fb91731c59e6",
+  "start_year": 1390,
+  "stop_year": 1401
+ },
+ "Q49880": {
+  "portal_id": "mdata83f45c250ee40289b6e8e729fec4a003a53c9371",
+  "start_year": 1471,
+  "stop_year": 1471
+ },
+ "Q49884": {
+  "portal_id": "mdata6b8caae473402a0862a56a8f2f68cd7542215ef7",
+  "start_year": 1301,
+  "stop_year": 1400
+ },
+ "Q49892": {
+  "portal_id": "mdata3db7eebb549deaf79052782c1ff7c1e3dfcba59c",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q49895": {
+  "portal_id": "mdataf5fc3a33d8f6aab6f6ad15f4d59ad6c724251dfa",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q49901": {
+  "portal_id": "mdataa8f743d77e3784d139adf9bcfea74666ea507054",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q49906": {
+  "portal_id": "mdata6e41d9bf342d538524dd72cb94818e5b0717ef65",
+  "start_year": 1201,
+  "stop_year": 1300
+ },
+ "Q49914": {
+  "portal_id": "mdata588d1acef6c0e0546a80b1fa51f0be92a66b0f7c",
+  "start_year": 1310,
+  "stop_year": 1325
+ },
+ "Q49920": {
+  "portal_id": "mdataf19ea7f65bdc596d0c74b296b94a93f2b2014cde",
+  "start_year": 1400,
+  "stop_year": 1405
+ },
+ "Q49922": {
+  "portal_id": "mdata99accbc0d47356fe0746f18f038c6f40822a3fcc",
+  "start_year": 1390,
+  "stop_year": 1402
+ },
+ "Q49923": {
+  "portal_id": "mdatae7b134837d4a9abf4efd0b64ce807b11db313cf3",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q49931": {
+  "portal_id": "mdata90773a704bee7873286f18411388eabfb9119a18",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q49932": {
+  "portal_id": "mdata40ce2242004bf21cdc708a150a649d80d645d7be",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q49948": {
+  "portal_id": "mdatac3cc14e566bafa2ffc9f980de941928ed2200b25",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q49965": {
+  "portal_id": "mdata05ec3b8a81053b5e8301351a3bcda5d7715fe5f1",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q50033": {
+  "portal_id": "mdata282496277d807b98b7c1fe9b41484a4dc97fb1a9",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q50034": {
+  "portal_id": "mdatac0c6fece886d8366eb65841ed57e1cc4a4152fba",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q50036": {
+  "portal_id": "mdatace17c49faef7afba4cfeee39423592799c6c2b20",
+  "start_year": 1301,
+  "stop_year": 1475
+ },
+ "Q50039": {
+  "portal_id": "mdata15b09787e4befc55a9dcc598273e5b641a9f0190",
+  "start_year": 1375,
+  "stop_year": 1380
+ },
+ "Q50040": {
+  "portal_id": "mdatab91d807a5fd484a7b2d5ee0a05fe3bd6e784c5f3",
+  "start_year": 1301,
+  "stop_year": 1400
+ },
+ "Q50042": {
+  "portal_id": "mdatabb7d83abf5ab0da7dfcc19f6d1f5cf48f03847c8",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q50058": {
+  "portal_id": "mdata310e7d02a6d06b3446d024920517f01eb2a55017",
+  "start_year": 1401,
+  "stop_year": 1402
+ },
+ "Q50076": {
+  "portal_id": "mdatadc65aeb9195e5059856a2ceff8e590832f74555d",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q50081": {
+  "portal_id": "mdataafa255fe1b1f1166f3a3236319264a9ec2fd849e",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q50121": {
+  "portal_id": "mdata68d55a7fb9e19327ea79ea5c5b7d53d72a37bb02",
+  "start_year": 1405,
+  "stop_year": 1410
+ },
+ "Q50180": {
+  "portal_id": "mdatafa67a033560bf3a21f5c252d50c0c7191d543162",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q50192": {
+  "portal_id": "mdatad6f55fe98295fa99a8760d69fd51b1af19dfddd6",
+  "start_year": 1470,
+  "stop_year": 1475
+ },
+ "Q50273": {
+  "portal_id": "mdata735bac94bdc2e79ef6628686421fec43859899ab",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q50296": {
+  "portal_id": "mdata1f75ee1af7ec0e3d849bf49300ffb2241fed6333",
+  "start_year": 1415,
+  "stop_year": 1425
+ },
+ "Q50340": {
+  "portal_id": "mdatacea8f3d2d2ef83dcaff4f358531e3fe26b97f987",
+  "start_year": 1396,
+  "stop_year": 1396
+ },
+ "Q50351": {
+  "portal_id": "mdata84c5b67ddbdd583631c8e84400e428c2919fde8b",
+  "start_year": 1396,
+  "stop_year": 1396
+ },
+ "Q50813": {
+  "portal_id": "mdatae8e5453efb446dacbdc89a6c2056c512cbf24483",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q50831": {
+  "portal_id": "mdataa662eac435a0cbb8eb7fba090abae3a8a0f6c84e",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q50859": {
+  "portal_id": "mdata2bf2422b95a4a502b76eb9b4e4973ffcd3e033f5",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q50883": {
+  "portal_id": "mdata4d2d291d5ddce01db9f6e662b27da4217ddcf143",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q50935": {
+  "portal_id": "mdataae80ce58e2edc02cc2bd1c89e7ffa9a630247beb",
+  "start_year": 1325,
+  "stop_year": 1350
+ },
+ "Q51077": {
+  "portal_id": "mdatacc81000a7b2bcb8f9d65a857541a7897a138510f",
+  "start_year": 1301,
+  "stop_year": 1400
+ },
+ "Q51084": {
+  "portal_id": "mdata6426e2884782183d3a3bea72ab33097ff0cb1a9b",
+  "start_year": 1470,
+  "stop_year": 1480
+ },
+ "Q51130": {
+  "portal_id": "mdataa676dbd31dec714ae459ed1f70d000110bd14554",
+  "start_year": 1301,
+  "stop_year": 1400
+ },
+ "Q51134": {
+  "portal_id": "mdatacdf481e6520c47578260c40d49ddb11c0060e1a7",
+  "start_year": 1201,
+  "stop_year": 1300
+ },
+ "Q51141": {
+  "portal_id": "mdata94b53535b146f86c556c0d5d8f44cf73c2131bfe",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q51146": {
+  "portal_id": "mdatad67e2df2730e6ca8f03a1c4cc3fc77297736d90c",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q51160": {
+  "portal_id": "mdata66370c638425b8bc7af9350cc65e6bfe8a0540fc",
+  "start_year": 1501,
+  "stop_year": 1600
+ },
+ "Q51163": {
+  "portal_id": "mdataf04919cf9160f10bb798dfd796561850e7b30595",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q51171": {
+  "portal_id": "mdata0857cfa4e2f675ed37008a6fa963084fff24ec36",
+  "start_year": 1301,
+  "stop_year": 1400
+ },
+ "Q51174": {
+  "portal_id": "mdatafbd6c08fc9f42224c9297316c8a014bf22d6e965",
+  "start_year": 1400,
+  "stop_year": 1404
+ },
+ "Q51184": {
+  "portal_id": "mdata175c84e19da2f7281f8321196bd8cd6251fce846",
+  "start_year": 1301,
+  "stop_year": 1400
+ },
+ "Q51190": {
+  "portal_id": "mdatab5603ff86a79495d315f21652951778a6de9ba89",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q51197": {
+  "portal_id": "mdataa9377a2f77c825ca97ce6328b2bd0adee8444378",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q51200": {
+  "portal_id": "mdata658dfaaff7656ad5a51e87a990f5d018aa1f9137",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q51201": {
+  "portal_id": "mdata107dd03a53646958730bcd2f131843a526254342",
+  "start_year": 1374,
+  "stop_year": 1374
+ },
+ "Q51213": {
+  "portal_id": "mdatabcf7e94475f89642edf5f865c6dd8168de13d911",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q51242": {
+  "portal_id": "mdata79d0d792f3fa8b1b9a3d243dfe8e2c1b39bfdf01",
+  "start_year": 1470,
+  "stop_year": 1475
+ },
+ "Q51245": {
+  "portal_id": "mdata71320417f7a0bbe1d9b6b593aac736a521c9c0cb",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q51247": {
+  "portal_id": "mdataac902c38cfeec720f6840ceb0cd3520272bae090",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q51254": {
+  "portal_id": "mdata090cc3fc9d25c9f327075355adf6f9e0d1ac61a3",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q51292": {
+  "portal_id": "mdata6e7a1764eb1cce261de8725b07b23414ebe21e1d",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q51323": {
+  "portal_id": "mdata4053d907d0ef8e3735a5b41539fa7e18d0b659af",
+  "start_year": 1501,
+  "stop_year": 1600
+ },
+ "Q51332": {
+  "portal_id": "mdatad9b6abddd05bfe143cf1d9f889fee6e32c6a41f2",
+  "start_year": 1401,
+  "stop_year": 1600
+ },
+ "Q51367": {
+  "portal_id": "mdata0d4fc1d0bc2ba05581f0428af9d831cc14d3e1a8",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q51370": {
+  "portal_id": "mdata3590fa1a2edebd9408ab88b0b72cfc9c3277994e",
+  "start_year": 1375,
+  "stop_year": 1425
+ },
+ "Q51377": {
+  "portal_id": "mdata7113855289c868c2e23e7b61221854915a56ac4e",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q51385": {
+  "portal_id": "mdatac52ce4ccdad1d2fc96e3e42409d6db6f2f8234d8",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q51388": {
+  "portal_id": "mdata96ef47967b29a62698730d24daa2292bf53c0c89",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q51494": {
+  "portal_id": "mdata008e2eeace20392c3d276ad192d62d936e11ecfa",
+  "start_year": 1400,
+  "stop_year": 1410
+ },
+ "Q51512": {
+  "portal_id": "mdata9b97fcbbe5f3fa74c7caf5bf60e9323ea07db42d",
+  "start_year": 1301,
+  "stop_year": 1325
+ },
+ "Q51517": {
+  "portal_id": "mdatae98ecd9a6e016d1524713a7688c056e6dfbb6114",
+  "start_year": 1498,
+  "stop_year": 1504
+ },
+ "Q51547": {
+  "portal_id": "mdatae928936b2a1e7fb00a7b0f6d360b4f98eea05d88",
+  "start_year": 1503,
+  "stop_year": 1508
+ },
+ "Q51570": {
+  "portal_id": "mdata81f2a827e364dd71ae466cde7e7d1fe1d17f44fd",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q51583": {
+  "portal_id": "mdata6f29c79e1f6fcbe160c8106d9f1e5fc8269b8aea",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q51616": {
+  "portal_id": "mdata5494e7835524453b0a304dc381444b5a78735856",
+  "start_year": 1380,
+  "stop_year": 1405
+ },
+ "Q51627": {
+  "portal_id": "mdata656b9e7dadd4c737ba09e48cc1e8742cbaf26f9f",
+  "start_year": 1301,
+  "stop_year": 1400
+ },
+ "Q51630": {
+  "portal_id": "mdata6df10b1a863d2998d888f0a363111f65bf52a6c0",
+  "start_year": 1360,
+  "stop_year": 1365
+ },
+ "Q51644": {
+  "portal_id": "mdatad67fb69c30a8d03e9fbe4a491d70138ceafc3240",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q51648": {
+  "portal_id": "mdata24058e50de73d44492d8c288d3b19a1db02bc6e7",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q51672": {
+  "portal_id": "mdata299454dcc6fb9a2a1bb03dc6c305263d505204b5",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q51683": {
+  "portal_id": "mdata4a4c4805a8f58b9a7d6ac442d728b988b3f6541a",
+  "start_year": 1405,
+  "stop_year": 1410
+ },
+ "Q51749": {
+  "portal_id": "mdata27122a3cdcac338263971df6092be6511d5ab2a9",
+  "start_year": 1468,
+  "stop_year": 1472
+ },
+ "Q51750": {
+  "portal_id": "mdata88683a0fdd0d2f449e9b46847072f31574ea020d",
+  "start_year": 1370,
+  "stop_year": 1390
+ },
+ "Q51778": {
+  "portal_id": "mdata5a75fb6f1e449297f50dd3d35393f0c69a68eed8",
+  "start_year": 1400,
+  "stop_year": 1410
+ },
+ "Q51782": {
+  "portal_id": "mdata966e8394a960a65f5a765542419c8e70952fa892",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q51826": {
+  "portal_id": "mdatab41ebd6912b5993a8153030200fc0461a334364b",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q51827": {
+  "portal_id": "mdata1c51626cee343ef00117fcde736c626274f5a380",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q51879": {
+  "portal_id": "mdataa3f7776d42e89b9555e027f489199dc9c305216f",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q51881": {
+  "portal_id": "mdata1528ced4b1bbcc4c2bc1dba4d1eb1ee94267e51b",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q51885": {
+  "portal_id": "mdata9bb93430e449e2abc3ccb179f148e65b226925c6",
+  "start_year": 1301,
+  "stop_year": 1400
+ },
+ "Q51907": {
+  "portal_id": "mdatad53f6880b35cc33a5ae4ef13c00e764911552fb8",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q51962": {
+  "portal_id": "mdatab20da9088bb6b8e45a23d647abd3871272cd6d17",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q51964": {
+  "portal_id": "mdataf0e07ab96324a5941af4678ce30f86c290142757",
+  "start_year": 1400,
+  "stop_year": 1415
+ },
+ "Q51965": {
+  "portal_id": "mdata14e5c695b5e6ac77c7410634b0ce895704a15529",
+  "start_year": 1201,
+  "stop_year": 1300
+ },
+ "Q51971": {
+  "portal_id": "mdata55b3914000c891d90b47fddf695e25c7ebdb1765",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q51981": {
+  "portal_id": "mdata4757a1d5de3447774fd623508df26702ed25318b",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q52060": {
+  "portal_id": "mdata73f41e538458723fb896e4f0f40dd3f866a888e5",
+  "start_year": 1301,
+  "stop_year": 1400
+ },
+ "Q52067": {
+  "portal_id": "mdata4165884e1cd9fd7d953840a5cfb545f73c928209",
+  "start_year": 1201,
+  "stop_year": 1300
+ },
+ "Q52071": {
+  "portal_id": "mdataede6c2798e468e16502d86ae86a5760dfae8d0b6",
+  "start_year": 1470,
+  "stop_year": 1480
+ },
+ "Q52080": {
+  "portal_id": "mdata0c6060ff833c04c44f740d670050554d834f855a",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q52089": {
+  "portal_id": "mdata93c6ebfa2eced1ee55746185c0739a6e96fb0242",
+  "start_year": 1270,
+  "stop_year": 1285
+ },
+ "Q52090": {
+  "portal_id": "mdata39079a510ae5343ce387361331048b98b066a69d",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q52094": {
+  "portal_id": "mdata5e5d37eebc164b07f64d6681889d7eecf0aea3f0",
+  "start_year": 1480,
+  "stop_year": 1482
+ },
+ "Q52196": {
+  "portal_id": "mdata86797cd119ae44aa608be2fee1cab3834a644d99",
+  "start_year": 1475,
+  "stop_year": 1485
+ },
+ "Q52197": {
+  "portal_id": "mdata7f519eed9867b5c680017464687c3177b457bce0",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q52216": {
+  "portal_id": "mdata3a32eabcbef0846dbc30bed1e13c74d4acb5c169",
+  "start_year": 1201,
+  "stop_year": 1300
+ },
+ "Q52249": {
+  "portal_id": "mdata1d418da3a02ae8846554fd06f5a8cb59a8e04f47",
+  "start_year": 1201,
+  "stop_year": 1400
+ },
+ "Q52313": {
+  "portal_id": "mdataee6a09bbafe49b7f9db2c3573f8de69750f91a04",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q52578": {
+  "portal_id": "mdata275621d7e30c26303d5cc7d5bc078b83ca7457ea",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q52617": {
+  "portal_id": "mdata38ae11f72dbdf91910c8517b8adb2da614c6db86",
+  "start_year": 1501,
+  "stop_year": 1600
+ },
+ "Q52685": {
+  "portal_id": "mdataaa35d6b7407186b12783fee3552b652a2a0964db",
+  "start_year": 1470,
+  "stop_year": 1480
+ },
+ "Q52711": {
+  "portal_id": "mdata0826b429086fabae019e18fc9b8752dade1210c2",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q52733": {
+  "portal_id": "mdata9851308e4443ce8b7a1b67c299c780c8fbf3d987",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q52742": {
+  "portal_id": "mdata09c93dff14b510bcecb9a614c6ec71f205664bad",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q52748": {
+  "portal_id": "mdata51d38cb212138093339a50a01ec162a38d8f43a6",
+  "start_year": 1462,
+  "stop_year": 1462
+ },
+ "Q52749": {
+  "portal_id": "mdata8487c7abe139112b513ca76a5d513592b7b73ddf",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q52754": {
+  "portal_id": "mdata9a1cede93e63943cb3e460d1fe3ab8dfb732fec4",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q52760": {
+  "portal_id": "mdata9037948170e74bdd9fd3e54af119341eedf317f4",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q52767": {
+  "portal_id": "mdatacee9b7e49fd5cd8f3a590af295be695413525465",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q52770": {
+  "portal_id": "mdatae4966f3a8349580fb04d606e1c4163324f18961c",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q52772": {
+  "portal_id": "mdata2f5c28517d322df20ca6b38e33c4ea1cf9dee66b",
+  "start_year": 1301,
+  "stop_year": 1400
+ },
+ "Q52824": {
+  "portal_id": "mdata300290996b0b9173c35359213329d3882b273e37",
+  "start_year": 1380,
+  "stop_year": 1395
+ },
+ "Q52837": {
+  "portal_id": "mdata835c08ffa060dea48f49c0a63b53825ac993c280",
+  "start_year": 1406,
+  "stop_year": 1406
+ },
+ "Q52884": {
+  "portal_id": "mdatabf7c2aa2a6e5d51aa07ac9bd964c277db16dea6e",
+  "start_year": 1501,
+  "stop_year": 1600
+ },
+ "Q52903": {
+  "portal_id": "mdata75413cd3f6316fe153d3ec99cdff701ed05124e7",
+  "start_year": 1201,
+  "stop_year": 1300
+ },
+ "Q52925": {
+  "portal_id": "mdata382edb868f00d54a5621b9ec9ecf76bc5217ea6e",
+  "start_year": 1435,
+  "stop_year": 1440
+ },
+ "Q52939": {
+  "portal_id": "mdataaf3cb84c9f9f8e4cb4bab2ac81a51471e0dacedf",
+  "start_year": 1448,
+  "stop_year": 1451
+ },
+ "Q52953": {
+  "portal_id": "mdata1a30bded6f32756c119f6d3f191580c1e5b79133",
+  "start_year": 1478,
+  "stop_year": 1478
+ },
+ "Q52971": {
+  "portal_id": "mdatad758f55fe42fb3469a8303f39a3e895aa97cbde6",
+  "start_year": 1301,
+  "stop_year": 1500
+ },
+ "Q52979": {
+  "portal_id": "mdata3f19066e50280c1f93e4be0b3ac39f677c62c273",
+  "start_year": 1270,
+  "stop_year": 1290
+ },
+ "Q52980": {
+  "portal_id": "mdata597acfba193ff4f1e4d4451c26c2fe3c7bac3837",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q52984": {
+  "portal_id": "mdata65e3b86cdd654ef18f3a3fde4013b8b99feb051b",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q52999": {
+  "portal_id": "mdata4b9edabf2bed1a3b3638ed83deb3bf0de349fafd",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q53009": {
+  "portal_id": "mdatac2b0bef6b0f2a6e600c764e48faaa792620d0f70",
+  "start_year": 1450,
+  "stop_year": 1460
+ },
+ "Q53010": {
+  "portal_id": "mdata16a1652798eb183a20cf48212df9f589cb795f13",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q53020": {
+  "portal_id": "mdata9fc649d8556391ef6e8a822d94bb1568766d2502",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q53027": {
+  "portal_id": "mdata617aa475e46d9e6cea31c54ea4f3544c9a6c6f3c",
+  "start_year": 1301,
+  "stop_year": 1400
+ },
+ "Q53028": {
+  "portal_id": "mdata464ea67b447091c9b12ded4be211ae04d63594c8",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q53029": {
+  "portal_id": "mdata0a087d0fb22b89d81373dff44c5b7c78af2fb0b4",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q53039": {
+  "portal_id": "mdatae9c8b1e04c76ae6a61565dd96165710091f07895",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q53048": {
+  "portal_id": "mdata5d66d594e1bcabe1d2fa6b235bcfa37b04b80a8b",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q53049": {
+  "portal_id": "mdataba1b81541a071a8f80a8ca2b8ecd1b12684671b1",
+  "start_year": 1301,
+  "stop_year": 1400
+ },
+ "Q53050": {
+  "portal_id": "mdataa649925a812f4c8c38d6fe210b9fa20c27555011",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q53051": {
+  "portal_id": "mdatade7c86bc348e07d77f9d9cd2429345485dcf260a",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q53053": {
+  "portal_id": "mdata6c79526df29ad43db6dab7c10531786f823ce2f2",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q53060": {
+  "portal_id": "mdata29eea9174fef94824c9c2e273be0a947f1d2f903",
+  "start_year": 1401,
+  "stop_year": 1500
+ },
+ "Q59264": {
+  "portal_id": "mdata648bdd0583656b7000e7f7b2ba8418f435248bcd",
+  "start_year": 1480,
+  "stop_year": 1496
+ },
+ "Q68081": {
+  "portal_id": "mdata6b757031822ca478170e3d54c92bb0fa178b1d75",
+  "start_year": 1201,
+  "stop_year": 1300
+ },
+ "Q68145": {
+  "portal_id": "mdatae59d4baba944607faec6d6dc2964a4c303306084",
+  "start_year": 1365,
+  "stop_year": 1370
+ },
+ "Q68250": {
+  "portal_id": "mdata137ba62f65b8b2f72ed4b667daf916c837e0c22c",
+  "start_year": 1400,
+  "stop_year": 1475
+ },
+ "Q68314": {
+  "portal_id": "mdata0a9511a00e141666609292647495cf1d2dd5ba4a",
+  "start_year": 1240,
+  "stop_year": 1400
+ },
+ "Q68510": {
+  "portal_id": "mdata78dceddc153ccecd6b371c690cb509ee25a58764",
+  "start_year": 1470,
+  "stop_year": 1490
+ },
+ "Q68516": {
+  "portal_id": "mdata5f949b1991a451fe610214705b950632ae9d430b",
+  "start_year": 1515,
+  "stop_year": 1520
+ },
+ "Q68519": {
+  "portal_id": "mdata0225d64f767727a6ac6bf6bcaf6eafef0d75429c",
+  "start_year": 1370,
+  "stop_year": 1380
+ },
+ "Q68580": {
+  "portal_id": "mdata28612f4b97c2c1a766262a8f1374b4b06fbad465",
+  "start_year": 1301,
+  "stop_year": 1400
+ },
+ "Q68588": {
+  "portal_id": "mdata3daa0e9657617d5eeac2507f0ddc4d6c0574cc89",
+  "start_year": 1301,
+  "stop_year": 1400
+ },
+ "Q69283": {
+  "portal_id": "mdatac1b734cfba0cec9f0424b113f2a727649d8a6788",
+  "start_year": 1501,
+  "stop_year": 1600
+ }
+}

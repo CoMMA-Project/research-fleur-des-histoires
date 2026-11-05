@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Lives network browser</title>
+<link rel="stylesheet" href="/static/style.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/cytoscape/3.30.2/cytoscape.min.js"></script>
+</head><body>
+<header><h1>Lives ↔ manuscripts</h1>
+<nav><button data-tab="browse" class="on">Browse</button><button data-tab="network">Network</button><button data-tab="align">Alignments</button></nav>
+<div id="datebar" title="Show only manuscripts whose date range overlaps this window">
+  <b>Date</b> <input id="d_from" type="number" placeholder="from" step="10"> – <input id="d_to" type="number" placeholder="to" step="10">
+  <span id="d_cent"></span>
+  <label><input type="checkbox" id="d_undated" checked> undated</label>
+  <button id="d_reset">reset</button> <span class="muted" id="d_info"></span>
+</div></header>
+<main id="browse">
+  <section class="col"><div class="tabs"><button data-list="lives" class="on">Lives</button><button data-list="mss">Manuscripts</button></div>
+    <input id="q" placeholder="filter…">
+    <label class="mh" title="Hide alignments with fewer matched lines than this">Min aligned lines <output id="o_mh">1</output>
+      <input id="min_lines" type="range" min="1" max="100" step="1" value="1"></label><ul id="list"></ul></section>
+  <section class="col wide" id="detail"><p class="muted">Select a life or a manuscript.</p></section>
+</main>
+<main id="network" hidden>
+  <aside>
+    <label>Graph
+      <select id="kind"><option value="lives">Lives (shared manuscripts)</option><option value="mss">Manuscripts (shared lives)</option><option value="bipartite">Bipartite</option></select></label><small class="hint">What the nodes are. <b>Lives</b>: two lives are linked when they sit in the same manuscripts (strength = weighted Jaccard of their cover values). <b>Manuscripts</b>: linked when they share lives. <b>Bipartite</b>: raw life–manuscript alignments. Colour = detected community; squares = manuscripts.</small>
+    <label>Min cover <output id="o1">0.20</output><input id="min_cover" type="range" min="0" max="1" step="0.05" value="0.2"></label><small class="hint">Keep an alignment only if the share of the life’s lines found in the manuscript (hits ÷ life length, 0–1) is at least this. Raise it to keep only strong, probable sources.</small>
+    <label>Min hits <output id="o2">5</output><input id="min_hits" type="range" min="1" max="100" step="1" value="5"></label><small class="hint">Keep an alignment only if at least this many lines of the life matched. Removes accidental one-line matches.</small>
+    <label>Min edge weight <output id="o3">0.10</output><input id="min_weight" type="range" min="0" max="1" step="0.05" value="0.1"></label><small class="hint">Lives/Manuscripts graphs only: hide links whose similarity (0–1) is at or below this value. Raise it to thin out dense graphs.</small>
+    <label>Resolution <output id="o4">1.0</output><input id="resolution" type="range" min="0.2" max="3" step="0.1" value="1"></label><small class="hint">Louvain community detection. Lower = fewer, larger communities; higher = more, smaller ones. Re-run after changing.</small>
+    <details open><summary>Manuscripts ranked by lives <button id="clearx" title="Restore all">restore all</button></summary>
+      <input id="msq" placeholder="filter shelfmark…"><div class="muted" id="xinfo"></div>
+      <ul id="msrank"></ul>
+      <small class="hint">Ranked by number of lives above the cover/hits thresholds. Tick to remove a manuscript (e.g. a hub such as Français 300) from the network; untick to restore.</small></details>
+    <label>Spread <output id="o6">1.0</output><input id="spread" type="range" min="0.3" max="4" step="0.1" value="1"></label><small class="hint">Layout only: how far apart nodes are drawn. Does not change links or communities.</small>
+    <button id="go">Detect networks</button>
+    <div id="stats" class="muted"></div><ol id="comms"></ol>
+  </aside>
+  <div id="cy"></div>
+</main>
+<main id="align" hidden>
+  <aside>
+    <label>Life <select id="a_life"></select></label>
+    <label>Manuscript A <select id="a_a"></select></label>
+    <label>Manuscript B <select id="a_b"></select></label>
+    <label><input type="checkbox" id="a_all" checked style="width:auto"> only passages present in all selected manuscripts</label>
+    <label>Min identity to life <output id="a_o">0.00</output><input id="a_min" type="range" min="0" max="1" step="0.05" value="0"></label>
+    <small class="hint">Pick a life to read its aligned passages (leave A/B empty for every witness). Pick A and B without a life to list the lives they share.</small>
+    <div class="legend">
+      <b>Legend</b>
+      <div><span class="c m">a</span> reading identical to the life</div>
+      <div><span class="c d">a</span> different reading</div>
+      <div><span class="c x">·</span> letter missing in the manuscript</div>
+      <div><span class="c i">ab</span> extra letters in the manuscript (before the life letter)</div>
+      <div><span class="c s">a</span> <b>shared variant</b>: ≥2 manuscripts read the same, against the life</div>
+    </div>
+  </aside>
+  <section class="col wide" id="a_out"><p class="muted">Choose a life, or two manuscripts.</p></section>
+</main>
+<script src="/static/app.js"></script>
+</body></html>
