@@ -10,14 +10,15 @@ import matplotlib.colors as mc
 import numpy as np
 
 ap = argparse.ArgumentParser()
-ap.add_argument("out", nargs="?")
+ap.add_argument("out", nargs="?", help="output path; default: parameters are encoded in the file name")
+ap.add_argument("--format", choices=["png", "pdf", "svg"], default="png")
 ap.add_argument("--kind", choices=["heatmap", "scatter"], default="heatmap")
 ap.add_argument("--no-caption", action="store_true", help="omit the title/caption from the figure and print it instead")
 ap.add_argument("--min-cover", type=float, default=0.2)
 ap.add_argument("--min-hits", type=int, default=5)
 a = ap.parse_args()
 kind = a.kind
-out = a.out or f"length_vs_matches_{kind}.png"
+out = a.out or f"length_vs_matches_{kind}_cover{a.min_cover:g}_hits{a.min_hits}{'_nocaption' if a.no_caption else ''}.{a.format}"
 nlines = {f: sum(1 for _ in open(f, encoding="utf8")) for f in sorted(glob.glob("lives/text-*.txt"))}
 def mid_date(q):
     """Mid-year of the manuscript's date range (cache/dates.json), or None."""

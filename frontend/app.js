@@ -59,7 +59,7 @@ async function showMs(q) {
 }
 
 // ---- network
-let cy, comms = [];
+let cy, comms = [], exportTag = "network";
 const excluded = new Set(); let rank = [];
 const rerun = (() => { let t; return () => { clearTimeout(t); t = setTimeout(() => $("#go").click(), 250); }; })();
 function drawRank() {
@@ -92,6 +92,9 @@ $("#go").onclick = async () => {
   $("#stats").textContent = "computing…";
   const g = await api("/api/graph?" + p);
   comms = g.communities;
+  // parameters the graph was computed with, kept for the exported file names (sliders may move afterwards)
+  exportTag = ["network", p.get("kind"), "cover" + p.get("min_cover"), "hits" + p.get("min_hits"), "w" + p.get("min_weight"), "res" + p.get("resolution"),
+               excluded.size && "x" + excluded.size, (DF.from || DF.to) && `d${DF.from}-${DF.to}`, !DF.undated && "dated"].filter(Boolean).join("_");
   $("#stats").textContent = `${g.nodes.length} nodes · ${g.edges.length} edges · ${g.communities.length} communities`;
   $("#comms").innerHTML = g.communities.slice(0, 40).map(c => `<li data-c="${c.id}"><b style="color:${palette[c.id % 10]}">●</b> ${c.size}: ${c.top.map(esc).join("; ")}</li>`).join("");
   cy && cy.destroy();
@@ -120,7 +123,7 @@ function drawnGraph() {
                                        size: n.width(), color: n.data("color"), shape: n.data("kind") === "ms" ? "rect" : "circle"})),
           edges: cy.edges().map(e => ({source: e.data("source"), target: e.data("target"), width: parseFloat(e.style("width"))}))};
 }
-const exportName = ext => `network-${$("#kind").value}.${ext}`;
+const exportName = ext => `${exportTag}.${ext}`;
 $("#x_svg").onclick = () => cy && download(new Blob([GraphExport.toSVG(drawnGraph(), {labels: $("#x_lab").checked})], {type: "image/svg+xml"}), exportName("svg"));
 $("#x_tex").onclick = () => cy && download(new Blob([GraphExport.toTikZ(drawnGraph(), {labels: $("#x_lab").checked})], {type: "text/x-tex"}), exportName("tex"));
 $("#x_png").onclick = () => {
@@ -157,13 +160,13 @@ $("#x_each").onclick = async () => {
   const todo = comms.filter(c => c.size >= 2), files = [], csv = [["network", "nodes", "file", "main members"]];
   for (const [i, c] of todo.entries()) {
     info.textContent = `${i + 1}/${todo.length}…`;
-    const g = communityGraph(c), name = `network-${kind}-${String(c.id + 1).padStart(2, "0")}-${GraphExport.slug(c.top[0] || "")}.${fmt}`;
+    const g = communityGraph(c), name = `${exportTag}_c${String(c.id + 1).padStart(2, "0")}-${GraphExport.slug(c.top[0] || "")}.${fmt}`;
     const svg = GraphExport.toSVG(g, {labels});
     files.push({name, data: fmt === "svg" ? svg : fmt === "tex" ? GraphExport.toTikZ(g, {labels}) : new Uint8Array(await (await svgToPng(svg)).arrayBuffer())});
     csv.push([c.id + 1, g.nodes.length, name, c.top.join("; ")]);
   }
   files.push({name: "index.csv", data: csv.map(r => r.map(v => `"${String(v).replace(/"/g, '""')}"`).join(",")).join("\n") + "\n"});
-  download(new Blob([GraphExport.toZip(files)], {type: "application/zip"}), `network-${kind}-each-${fmt}.zip`);
+  download(new Blob([GraphExport.toZip(files)], {type: "application/zip"}), `${exportTag}_each-${fmt}.zip`);
   info.textContent = `${todo.length} networks`;
 };
 loadList();
