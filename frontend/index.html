@@ -33,7 +33,15 @@
       <small class="hint">Ranked by number of lives above the cover/hits thresholds. Tick to remove a manuscript (e.g. a hub such as Français 300) from the network; untick to restore.</small></details>
     <label>Spread <output id="o6">1.0</output><input id="spread" type="range" min="0.3" max="4" step="0.1" value="1"></label><small class="hint">Layout only: how far apart nodes are drawn. Does not change links or communities.</small>
     <button id="go">Detect networks</button>
-    <div id="stats" class="muted"></div><ol id="comms"></ol>
+    <div id="stats" class="muted"></div>
+    <div id="export" hidden><b>Export the graph</b>
+      <div><button id="x_svg">SVG</button> <button id="x_png">PNG</button> <button id="x_tex">TikZ</button>
+        <label class="inl"><input type="checkbox" id="x_lab" checked> labels</label></div>
+      <div style="margin-top:6px"><button id="x_each" title="One file per detected network (community), each laid out on its own">Each network → .zip</button>
+        <select id="x_fmt" style="width:auto"><option value="svg">SVG</option><option value="tex">TikZ</option><option value="png">PNG</option></select>
+        <span class="muted" id="x_info"></span></div>
+      <small class="hint">Exports the graph as currently laid out (drag nodes or change “Spread” first). <b>Each network</b>: one file per community (networks of 2+ nodes), re-laid out separately, plus an index.csv. <b>TikZ</b>: a standalone .tex file (compile with pdflatex, or \input it in a figure). Colour = community, squares = manuscripts.</small></div>
+    <ol id="comms"></ol>
   </aside>
   <div id="cy"></div>
 </main>
@@ -56,5 +64,6 @@
   </aside>
   <section class="col wide" id="a_out"><p class="muted">Choose a life, or two manuscripts.</p></section>
 </main>
+<script src="/static/export.js"></script>
 <script src="/static/app.js"></script>
 </body></html>

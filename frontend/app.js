@@ -59,7 +59,7 @@ async function showMs(q) {
 }
 
 // ---- network
-let cy;
+let cy, comms = [];
 const excluded = new Set(); let rank = [];
 const rerun = (() => { let t; return () => { clearTimeout(t); t = setTimeout(() => $("#go").click(), 250); }; })();
 function drawRank() {
@@ -91,6 +91,7 @@ $("#go").onclick = async () => {
   p.set("exclude", [...excluded].join(","));
   $("#stats").textContent = "computing…";
   const g = await api("/api/graph?" + p);
+  comms = g.communities;
   $("#stats").textContent = `${g.nodes.length} nodes · ${g.edges.length} edges · ${g.communities.length} communities`;
   $("#comms").innerHTML = g.communities.slice(0, 40).map(c => `<li data-c="${c.id}"><b style="color:${palette[c.id % 10]}">●</b> ${c.size}: ${c.top.map(esc).join("; ")}</li>`).join("");
   cy && cy.destroy();
@@ -102,11 +103,68 @@ $("#go").onclick = async () => {
             {selector: "edge", style: {width: "mapData(weight,0,1,.5,4)", "line-color": "#8895", opacity: .5}},
             {selector: ".sel", style: {"border-width": 2, "border-color": "#000"}}],
     layout: layoutOpts()});
+  $("#export").hidden = false;
   cy.on("tap", "node", e => {
     const n = e.target.data();
     document.querySelector('[data-tab="browse"]').click();
     if (n.kind === "ms") { mode = "mss"; showMs(n.id); } else { mode = "lives"; showLife(n.id); }
   });
+};
+// ---- export of the network (SVG / TikZ from the current layout, PNG from Cytoscape)
+function download(blob, name) {
+  const a = Object.assign(document.createElement("a"), {href: URL.createObjectURL(blob), download: name});
+  document.body.appendChild(a); a.click(); a.remove(); setTimeout(() => URL.revokeObjectURL(a.href), 1000);
+}
+function drawnGraph() {
+  return {nodes: cy.nodes().map(n => ({id: n.id(), label: n.data("label") || "", x: n.position("x"), y: n.position("y"),
+                                       size: n.width(), color: n.data("color"), shape: n.data("kind") === "ms" ? "rect" : "circle"})),
+          edges: cy.edges().map(e => ({source: e.data("source"), target: e.data("target"), width: parseFloat(e.style("width"))}))};
+}
+const exportName = ext => `network-${$("#kind").value}.${ext}`;
+$("#x_svg").onclick = () => cy && download(new Blob([GraphExport.toSVG(drawnGraph(), {labels: $("#x_lab").checked})], {type: "image/svg+xml"}), exportName("svg"));
+$("#x_tex").onclick = () => cy && download(new Blob([GraphExport.toTikZ(drawnGraph(), {labels: $("#x_lab").checked})], {type: "text/x-tex"}), exportName("tex"));
+$("#x_png").onclick = () => {
+  if (!cy) return;
+  const noLabels = !$("#x_lab").checked;
+  if (noLabels) cy.nodes().style("label", "");
+  const blob = cy.png({full: true, scale: 3, bg: "#ffffff", output: "blob"});
+  if (noLabels) cy.nodes().removeStyle("label");
+  download(blob, exportName("png"));
+};
+// each detected network on its own: re-laid out in a headless Cytoscape, then exported like the whole graph
+function communityGraph(c) {
+  const sub = cy.nodes().filter(n => n.data("community") === c.id);
+  const h = cytoscape({headless: true, elements: [...sub.map(n => ({data: n.data()})), ...sub.edgesWith(sub).map(e => ({data: e.data()}))]});
+  h.layout({...layoutOpts(), randomize: true}).run();
+  return {nodes: h.nodes().map(n => ({id: n.id(), label: n.data("label") || "", x: n.position("x"), y: n.position("y"),   // same sizes as the style above
+                                      size: 6 + 22 * Math.min((n.data("degree") || 0) / 10, 1), color: palette[c.id % 10], shape: n.data("kind") === "ms" ? "rect" : "circle"})),
+          edges: h.edges().map(e => ({source: e.data("source"), target: e.data("target"), width: .5 + 3.5 * Math.min(e.data("weight") || 0, 1)}))};
+}
+function svgToPng(svg, scale = 3) {
+  return new Promise((ok, fail) => {
+    const img = new Image(), url = URL.createObjectURL(new Blob([svg], {type: "image/svg+xml"}));
+    img.onload = () => {
+      const c = Object.assign(document.createElement("canvas"), {width: img.width * scale, height: img.height * scale}), x = c.getContext("2d");
+      x.fillStyle = "#fff"; x.fillRect(0, 0, c.width, c.height); x.scale(scale, scale); x.drawImage(img, 0, 0);
+      URL.revokeObjectURL(url); c.toBlob(ok, "image/png");
+    };
+    img.onerror = () => fail(new Error("SVG could not be rasterised")); img.src = url;
+  });
+}
+$("#x_each").onclick = async () => {
+  if (!cy) return;
+  const fmt = $("#x_fmt").value, labels = $("#x_lab").checked, kind = $("#kind").value, info = $("#x_info");
+  const todo = comms.filter(c => c.size >= 2), files = [], csv = [["network", "nodes", "file", "main members"]];
+  for (const [i, c] of todo.entries()) {
+    info.textContent = `${i + 1}/${todo.length}…`;
+    const g = communityGraph(c), name = `network-${kind}-${String(c.id + 1).padStart(2, "0")}-${GraphExport.slug(c.top[0] || "")}.${fmt}`;
+    const svg = GraphExport.toSVG(g, {labels});
+    files.push({name, data: fmt === "svg" ? svg : fmt === "tex" ? GraphExport.toTikZ(g, {labels}) : new Uint8Array(await (await svgToPng(svg)).arrayBuffer())});
+    csv.push([c.id + 1, g.nodes.length, name, c.top.join("; ")]);
+  }
+  files.push({name: "index.csv", data: csv.map(r => r.map(v => `"${String(v).replace(/"/g, '""')}"`).join(",")).join("\n") + "\n"});
+  download(new Blob([GraphExport.toZip(files)], {type: "application/zip"}), `network-${kind}-each-${fmt}.zip`);
+  info.textContent = `${todo.length} networks`;
 };
 loadList();
 

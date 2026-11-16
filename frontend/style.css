@@ -36,3 +36,4 @@ main#align{display:flex}main#align[hidden]{display:none}#a_out{overflow:auto}
 #datebar input[type=number]{width:70px;padding:3px}#datebar label{display:inline}#datebar button{padding:2px 7px;font-size:12px}
 @media(max-width:700px){header{flex-wrap:wrap}}
 .mh{display:block;font-size:12px;margin:0 0 8px}.mh input{width:100%}
+#export{margin:12px 0;padding:8px 0;border-top:1px solid var(--line)}#export label.inl{display:inline;margin-left:8px;font-size:13px}#export button{margin-right:4px}
